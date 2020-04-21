@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-dantay",
-  "version": "0.0.28",
+  "version": "0.0.30",
   "description": "ESLint and Prettier Config from Wes Bos",
   "keywords": [
     "javascript",
