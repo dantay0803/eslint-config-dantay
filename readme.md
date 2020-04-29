@@ -2,7 +2,7 @@
 
 These are my settings for ESLint and Prettier
 
-This package is based on the eslint package by [Wes Bos](https://github.com/wesbos/eslint-config-dantay)
+This package is based on the eslint package by [Wes Bos](https://github.com/wesbos/eslint-config-wesbos)
 
 ## What it does
 
