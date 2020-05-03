@@ -80,6 +80,16 @@ module.exports = {
     "react/no-unescaped-entities": 0,
     "jsx-a11y/accessible-emoji": 0,
     "react/require-default-props": 0,
+    "react/state-in-constructor": [1, "always"],
+    "react/prop-types": [1],
+    "react/button-has-type": [0],
+    "react/destructuring-assignment": [
+      1,
+      "always",
+      {
+        "ignoreClassFields": true
+      }
+    ],
     "react/jsx-filename-extension": [
       1,
       {
@@ -118,6 +128,8 @@ module.exports = {
         "trailingComma": "es5",
         "singleQuote": true,
         "printWidth": 80,
+        "endOfLine": "auto",
+        "semi": true
       }
     ],
     "jsx-a11y/href-no-hash": "off",
